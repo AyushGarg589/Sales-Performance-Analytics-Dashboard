@@ -10,7 +10,7 @@ The project bridges the gap between backend data processing and front-end busine
 ## Interactive Dashboard Sneak Peek
 *Below is a static preview of the interactive dark-mode dashboard. Users can dynamically filter data by Quarters, Regions, Cities, and Order Status via integrated slicers.*
 
-![Sales Dashboard Preview](image_e66983d.png)
+![Sales Dashboard Preview](image_e66983d.png.png)
 
 ---
 
